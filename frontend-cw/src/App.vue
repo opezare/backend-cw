@@ -122,8 +122,8 @@ onMounted(() => {
 </script>
 
 <template>
-	<div class="container for 67023053">
-		<h1>CRUD Playground</h1>
+	<div class="container">
+		<h1>CRUD Playground for 67023053</h1>
 
 		<section class="card">
 			<h2 @click="showList = !showList" style="cursor:pointer">List items <small>click to toggle</small></h2>
