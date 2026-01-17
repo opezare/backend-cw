@@ -122,7 +122,7 @@ onMounted(() => {
 </script>
 
 <template>
-	<div class="container">
+	<div class="container for 67023053">
 		<h1>CRUD Playground</h1>
 
 		<section class="card">
